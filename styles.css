@@ -17,6 +17,10 @@
 }
 .mvjce{
     text-decoration: none;
+    color: #4285F4;
+}
+.mvjce:hover{
+    color: red;
 }
 .a1{
     display: flex;

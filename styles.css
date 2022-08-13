@@ -65,6 +65,7 @@
     margin-top: 10px;
     margin-left: -10px;
     margin-right: -10px;
+    margin-bottom: 100px;
     padding: 10px;
     display: flex;
     font-family: 'DM Sans', sans-serif;
@@ -181,12 +182,12 @@
     margin-top: -100px;
 }
 .container4{
-    color: #adb5bd;
+    color: #094d92;
     background-color: white;  
-    margin: 0px;
-    font-family: 'Prompt', sans-serif;
+    margin-right: 10px;
+    font-family: 'DM Sans', sans-serif;
     font-size: 100;
-    font-weight: 700;
+    font-weight: 900;
     display: flex;
     justify-content: flex-end;
 }
@@ -195,4 +196,11 @@
     margin-left: -10px;
     margin-right: 0px;
     color: black;
+}
+#register{
+    text-decoration: none;
+    color: #4285F4;
+}
+#register:hover{
+    color: #0F9D58;
 }

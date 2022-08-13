@@ -1,6 +1,6 @@
 function generate()
 {
-    for(let i=1; i<=16;i++)
+    for(let i=1; i<=17;i++)
     {
         const container = document.querySelector('#container');
         const row= document.createElement('div');

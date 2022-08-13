@@ -42,11 +42,11 @@
     background-color: #0F9D58;
 }
 .b1{
-    margin-top: 50px;
-    margin-bottom: 50;
+    margin-top: 80px;
+    margin-bottom: 80;
     padding-right: 10px;
     padding-left: 10px;
-    margin-left: 20px;
+    margin-left: 30px;
     height: 400px;
     padding-top: 10px;
     padding-bottom: 50px;
@@ -74,12 +74,11 @@
 .meet{
     background-color: #e9ecef;  
     margin: -10px;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 90px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 100px;
     font-weight: 700;
     padding-left: 60px;
     padding-top: 50px;
-
 }
 .teams{
     display: flex;
@@ -180,4 +179,20 @@
 #teamWork{
    margin-left: -70px;
     margin-top: -100px;
+}
+.container4{
+    color: #adb5bd;
+    background-color: white;  
+    margin: 0px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 100;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+}
+#container{
+    display: flex;
+    margin-left: -10px;
+    margin-right: 0px;
+    color: black;
 }

@@ -204,3 +204,32 @@
 #register:hover{
     color: #0F9D58;
 }
+.container5{
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    background-color: #e9ecef;
+    color: #343a40;
+    height: 100px;
+}
+#title{
+    color: #718093;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#title:hover{
+    color: #343a40;
+    font-size: 15px;
+    
+    padding-top: 20px;
+}
+.cr{
+    padding-left: 500px;
+    padding-top: 0px;
+}

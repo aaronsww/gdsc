@@ -1,1 +1,12 @@
 Task 2
+Explaining web development to a 5 year old.
+Think of websites as books and servers as bags. Websites are basically files that are stored in a computer i.e. the server. We access these files through the internet.
+As a developer, you have 3 roles: Front-end, Back-end and Full Stack development. Let's take another example, think of a toy store. All the pretty toys, their colours, shape and design are the
+front-end aspect of it. Their assembly and the process of how it's managed is the back-end aspect. This relates directly to websites in real life. If you can pull off both, you
+are a full stack developer.  
+Brushing over front-end, we have 3 types of files: 
+1. HTML, the backbone fo every website.
+2. CSS is used to style those HTML tags.
+3. JS is a programming language use to bring about different functions in the website.
+Basics of back-end include running the server using a programming language, for example, running JS files using node.js. Learning and managing databases (organized collection of 
+information) is also an important aspect of back-end developent.  
